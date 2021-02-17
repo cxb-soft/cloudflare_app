@@ -15,6 +15,10 @@
 > Telegram : [@cxbsoft](https://t.me/cxbsoft)
 >
 > E-mail : cxbsoft@bsot.cn
+>
+> IOS : APP Store安装
+>
+> Android : http://service.bsot.cn/cloudflare/cloudflare_android.apk
 
 ## 应用介绍
 
@@ -74,6 +78,7 @@
 ---
 
 ### 更新说明
+
 ---
 
 v1.1.0
@@ -107,7 +112,7 @@ v1.0.5
 
 4. Cloudflare Firewall同步功能（从本地同步到账户、从账户同步到本地）
 
-5.  用户页面更友好
+5. 用户页面更友好
 
 6. 取消了一定要登录才能进入APP的设定
 
@@ -118,7 +123,9 @@ Firewall Github : https://github.com/cxb-soft/cloudflare_firewall
 v 1.0.4
 
 1. 新增Cloudflare防火墙服务，自行搭建服务端，APP端进行连接管理
+
 ---
+
 v 1.0.1
 
 1. 解析管理（添加、删除、修改），批量添加解析
