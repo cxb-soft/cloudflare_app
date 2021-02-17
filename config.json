@@ -1,0 +1,20 @@
+{
+    "cloudflare": {
+        "password": "",
+        "username": ""
+    },
+    "firewall_status": "off",
+    "ips": [],
+    "load": {
+        "max_value": "10"
+    },
+    "method": "under_attack",
+    "mode": "load",
+    "password": "password",
+    "port": 65500,
+    "protect_domains": [
+        
+    ],
+    "status": "off",
+    "time": 10
+}
